@@ -1,0 +1,2 @@
+
+givenComputerInstance_whenExtractedEachField_thenThreeAssertions=true
